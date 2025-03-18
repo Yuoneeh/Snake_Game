@@ -1,0 +1,24 @@
+C:\Users\Eduardo\Desktop\EUVOMORRE\Snake Game\Snake Game\bin\Debug\Snake Game.exe.config
+C:\Users\Eduardo\Desktop\EUVOMORRE\Snake Game\Snake Game\bin\Debug\Snake Game.exe
+C:\Users\Eduardo\Desktop\EUVOMORRE\Snake Game\Snake Game\bin\Debug\Snake Game.pdb
+C:\Users\Eduardo\Desktop\EUVOMORRE\Snake Game\Snake Game\obj\Debug\Snake Game.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\EUVOMORRE\Snake Game\Snake Game\obj\Debug\Snake Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\Desktop\EUVOMORRE\Snake Game\Snake Game\obj\Debug\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\EUVOMORRE\Snake Game\Snake Game\obj\Debug\Snake Game.exe
+C:\Users\Eduardo\Desktop\EUVOMORRE\Snake Game\Snake Game\obj\Debug\Snake Game.pdb
+C:\Users\Estudantes\Desktop\Snake Game\Snake Game\bin\Debug\Snake Game.exe.config
+C:\Users\Estudantes\Desktop\Snake Game\Snake Game\bin\Debug\Snake Game.exe
+C:\Users\Estudantes\Desktop\Snake Game\Snake Game\bin\Debug\Snake Game.pdb
+C:\Users\Estudantes\Desktop\Snake Game\Snake Game\obj\Debug\Snake Game.csproj.AssemblyReference.cache
+C:\Users\Estudantes\Desktop\Snake Game\Snake Game\obj\Debug\Snake Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudantes\Desktop\Snake Game\Snake Game\obj\Debug\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\Estudantes\Desktop\Snake Game\Snake Game\obj\Debug\Snake Game.exe
+C:\Users\Estudantes\Desktop\Snake Game\Snake Game\obj\Debug\Snake Game.pdb
+C:\Users\Eduardo\Desktop\JOgo placar todo fudido\Snake Game\bin\Debug\Snake Game.exe.config
+C:\Users\Eduardo\Desktop\JOgo placar todo fudido\Snake Game\bin\Debug\Snake Game.exe
+C:\Users\Eduardo\Desktop\JOgo placar todo fudido\Snake Game\bin\Debug\Snake Game.pdb
+C:\Users\Eduardo\Desktop\JOgo placar todo fudido\Snake Game\obj\Debug\Snake Game.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\JOgo placar todo fudido\Snake Game\obj\Debug\Snake Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\Desktop\JOgo placar todo fudido\Snake Game\obj\Debug\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\JOgo placar todo fudido\Snake Game\obj\Debug\Snake Game.exe
+C:\Users\Eduardo\Desktop\JOgo placar todo fudido\Snake Game\obj\Debug\Snake Game.pdb
